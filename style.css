@@ -1,0 +1,25 @@
+body{
+  background-image: url('https://thumbs.gfycat.com/BlushingEagerHerald-poster.jpg');
+  color: yellow;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+}
+
+h1{
+  font-size: 7em;
+}
+
+button{
+  background: none;
+  color:  yellow;
+  border: 1px solid yellow;
+  font-size: 1.5em;
+  padding: 5px 20px;
+  border-radius: 2px;
+  cursor: pointer;
+}
+
+button:hover{
+  background-color: yellow;
+  color: black;
+}
